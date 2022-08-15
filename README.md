@@ -5,7 +5,7 @@
 
 
 ## Introducción
-Hemos aprendido que los objetos son una colección de propiedades. Una propiedad es una asociación entre un nombre y un valor. El valor de la propiedad de un objeto puede er una función. Cuando ésto sucede, la propiedad es conocida como un método. Por ejemplo
+Hemos aprendido que los objetos son una colección de propiedades. Una propiedad es una asociación entre un nombre y un valor. El valor de la propiedad de un objeto puede ser una función. Cuando ésto sucede, la propiedad es conocida como un método. Por ejemplo
 
 ```
 const motocicleta = {

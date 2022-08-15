@@ -1,4 +1,4 @@
-# Lab: Parametros y Argumentos
+# Lab: Creando el Objeto Bird
 
 ## Objetivos
 - Crear un objeto con propiedades y métodos
